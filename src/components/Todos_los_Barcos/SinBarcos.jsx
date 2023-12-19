@@ -3,8 +3,7 @@
 import axios from "axios";
 
 export default function SinBarcos(){
-    const bark = async () => await axios('https://www.instagram.com/p/C0UrID9pzem/embed')
-    console.log('acaperro')
+    
     
 
     return (
